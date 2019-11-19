@@ -1,0 +1,22 @@
+.title {
+  margin: 15px;
+}
+
+.buttonPrice {
+  font-size: 22px;
+  text-transform: unset;
+  margin: 0 35px;
+  border: 0;
+  cursor: pointer;
+}
+
+.buttonPrice::before {
+  content: url('../static/arrow.svg');
+  position: absolute;
+  background-repeat: no-repeat;
+  margin-left: 69px;
+}
+
+.buttonPrice {
+  outline: 0;
+}

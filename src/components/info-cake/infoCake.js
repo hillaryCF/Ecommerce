@@ -1,4 +1,5 @@
-import React from 'react';
+import React from 'react'
+import './infoCake.scss'
 
 export default ({id ,imageUrl,name,description,price}) =>
 <div className="cake">

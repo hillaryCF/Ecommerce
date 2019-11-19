@@ -1,3 +1,24 @@
-.header__wave {
-  background-image: url('../../static/wave.mobile.svg');
+.header__background {
+  background-image: url('../../static/wave.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.header__eye {
+  width: 90%;
+  display: block;
+  margin: 60px auto 12px;
+}
+.header__logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.header__text {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #860000;
 }

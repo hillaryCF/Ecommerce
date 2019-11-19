@@ -8,15 +8,15 @@ class ButtonBuy extends Component {
 			Loaded: true,
 			api:PostData.products
 		}
-		console.log(this.state.api[0].title)
+		console.log(this.state.api[0].title) 
 	}
 
 	render() {
 			console.log(api)
-			return (
+			return ( 
 				<React.Fragment>
 					<Link>hola</Link>
 				</React.Fragment>
 			)
 	}
-}
+} 
