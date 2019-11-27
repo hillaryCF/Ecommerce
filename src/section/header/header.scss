@@ -1,24 +1,35 @@
-.header__background {
-  background-image: url('../../static/wave.svg');
+.header__background { 
+  background: url('../../static/1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  background-position: center;
+  height: 60vh;
   width: 100%;
 }
 
-.header__eye {
-  width: 90%;
-  display: block;
-  margin: 60px auto 12px;
-}
-.header__logo {
-  display: block;
-  margin: 0 auto;
+.header__title {
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: right;
+  color: white;
+  font-weight: normal;
+
+  @media screen and (min-width: 768px) {
+  }
 }
 
 .header__text {
-  font-size: 20px;
-  text-transform: uppercase;
-  text-align: center;
-  color: #860000;
+  width: 64%;
+  position: absolute;
+  right: 19px;
+}
+
+.header__title-size {
+  font-size: 70px;
+}
+
+.header__arrow {
+  margin-top: 89px;
+  margin-left: 20px;
+  width: 22%;
 }

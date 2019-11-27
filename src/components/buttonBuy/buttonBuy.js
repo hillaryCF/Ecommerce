@@ -1,22 +1,15 @@
-import React,{Component} from 'react'
-import {Link} from 'react'
+import React,{useState} from 'react'
+import './buttonBuy.scss'
 
-class ButtonBuy extends Component {
-	constructor(props) {
-		super(props);
-		this.state = {
-			Loaded: true,
-			api:PostData.products
-		}
-		console.log(this.state.api[0].title) 
-	}
+function ButtonBuy() {
+	
+	// function BuyAction() {
+	 	const [count, setCount] = useState(0);
+	// 	console.log(setCount(count + 1));
+	// }
+	return (
+		<button onClick={() => setCount(count + 1)} className="button__buy">buy now</button>
+	);
+}
 
-	render() {
-			console.log(api)
-			return ( 
-				<React.Fragment>
-					<Link>hola</Link>
-				</React.Fragment>
-			)
-	}
-} 
+export default ButtonBuy

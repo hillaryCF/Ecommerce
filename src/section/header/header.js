@@ -7,10 +7,11 @@ const Header = () => {
     <div className="header">
       <div className="header__background">
         <Nav/>
-        <img src="../img/eye.png" alt="" className="header__eye"/>
-        <img src="../img/nastra.svg" alt="logo of nastra" className="header__logo" />
+        <div className="header__text">
+          <h1 className="header__title">new <span className="header__title-size">nastra</span> styles</h1>
+        </div>
+        <img src="../img/arrowHead.svg" className="header__arrow"/>
       </div>
-      <h1 className="header__text">delicious cake never seen before</h1>
     </div>
   )
 }

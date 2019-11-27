@@ -1,22 +1,21 @@
-.title {
-  margin: 15px;
+h2 {
+  font-size: 40px;
+  margin-left: 27px;
 }
 
-.buttonPrice {
-  font-size: 22px;
-  text-transform: unset;
-  margin: 0 35px;
-  border: 0;
-  cursor: pointer;
+h3 {
+  font-size: 20px;
 }
 
-.buttonPrice::before {
-  content: url('../static/arrow.svg');
-  position: absolute;
-  background-repeat: no-repeat;
-  margin-left: 69px;
+.infoSwimsuits {
+  background: url('../static/background.png');
 }
 
-.buttonPrice {
-  outline: 0;
+.sortButtons {
+  padding: 13px 0px;
+  border-top: 1px solid #D1D1D1;
+  border-bottom: 1px solid #D1D1D1;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 26px;
 }

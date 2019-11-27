@@ -1,0 +1,16 @@
+.button__sort {
+  border: 0;
+  cursor: pointer;
+  font-size: 20px;
+  outline: 0;
+  text-transform: unset;
+
+  @media screen and (min-width: 768px) {
+    font-size: 30px;
+    margin: 0px 100px;
+  }
+}
+
+.button__img {
+  background-repeat: no-repeat;
+}

@@ -1,245 +1,414 @@
 {
   "products": [
     {
-      "category": "characters",
+      "category": "Top",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "This Daenerys Targaryen cake is made of golden butter cake and strawberry meringue butter cream.",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Triangle shape",
+        "Support: Medium support",
+        "Coverage: Moderate coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
+      "id": 0,
+      "price": 55.36,
+      "title": "Tropical Day Fixed Triangle Bikini Top",
+      "image": "https://images.unsplash.com/photo-1531012674264-eeda268ca053?ixlib=rb-1.2.1&auto=format&fit=crop&w=630&q=80"
+    },
+    {
+      "category": "Top",
+      "size": [
+        "XS",
+        "M",
+        "L"
+      ],
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Triangle shape",
+        "Support: Medium support",
+        "Coverage: Moderate coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Ring and slider closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 1,
-      "price": 208.89,
-      "title": "Daenerys Targaryen",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/54463225_2154272144664674_7922237090673197056_n.jpg?_nc_cat=110&_nc_oc=AQkeryN2k9VGqrdsQcYyMFmLtJHk9oAp3V5NlCShJcTMkpg_vtfcACmoE09Md6s7A1s&_nc_ht=scontent.fsyq2-1.fna&oh=f5d9be9d674b5bef8cac66ff42f0f9d2&oe=5E5EC315"
+      "price": 55.00,
+      "title": "Printed Beach Classics Tank Bralette Bikini Top",
+      "image": "https://images.unsplash.com/photo-1555992938-ae7aa7e36d07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80"
     },
     {
-      "category": "characters",
+      "category": "One piece",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "Regan cake from The Exorcist. peach stuffed chocolate cake",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 2,
-      "price": 100.79,
-      "title": "Exorcist cake",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/44746019_1940634799361744_159539197319839744_n.jpg?_nc_cat=107&_nc_oc=AQmEnPsKHPNA43PzBmgO-c3PI0WdOWrNOMWF5SMsDEj4-jSiOytPp18cLxmguLMtHi8&_nc_ht=scontent.fsyq2-1.fna&oh=afa6ffea26bccf2a07c6717e162ab7b6&oe=5E542B29"
+      "price": 80.00,
+      "title": "Beach Classics One-Piece Swimsuit",
+      "image": "https://images.unsplash.com/photo-1533624800173-4b9d2f20b966?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "characters",
+      "category": "One piece",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "Kathy Bates with a delicious caramel filling with almonds and a butter cover",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 3,
-      "price": 150.32,
-      "title": "Kathy Bates",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/15073306_1136365213122044_8451719201647325520_n.jpg?_nc_cat=106&_nc_oc=AQl4zkW-8Nw7lJPtdp92BrLy-a-BqDmqt7kES0VEnat8UQMPo84geUbq0wpmJDjmKNk&_nc_ht=scontent.fsyq2-1.fna&oh=cff1d76ad6ce7c92aaa7229c56c8932c&oe=5E4A5841"
+      "price": 90.00,
+      "title": "Seas The Day One-Piece Swimsuit",
+      "image": "https://images.unsplash.com/photo-1467632499275-7a693a761056?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "characters",
+      "category": "Bikini bottoms",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "delicious zombie with pineapple flavored topping and caramel topping",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 4,
-      "price": 90.65,
-      "title": "Zombie",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/44778755_1938401946251696_3534770385394335744_n.jpg?_nc_cat=108&_nc_oc=AQmXQhnyvK6zYVss5gVPw2QfDYi7SnS5A5UVYtdcO74zwUrDk0-etFqfDZeT6eBR76I&_nc_ht=scontent.fsyq2-1.fna&oh=7a3ef9ef24f47e11af96814ff88742a9&oe=5E50ECCE"
-    },
-    {
-      "category": "small unusual",
-      "size": [
-        "6",
-        "12"
-      ],
-      "description": "cherry tongues",
-      "id": 5,
       "price": 50.30,
-      "title": "tongues",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/49897760_2046734492085107_2441249481082011648_o.jpg?_nc_cat=108&_nc_oc=AQmfgDzftdipkTtZd3KH73mBwrVkpc5ABQ6liuZBZHNFQLsYJ6KVwpPSow_VUrTLXRo&_nc_ht=scontent.fsyq2-1.fna&oh=0fc71e97f99fe4cd106389b283c717d7&oe=5E4F8BB0"
+      "title": "Beach Classics Moderate Bikini Bottoms for Women",
+      "image": "https://images.unsplash.com/photo-1522322904670-5cf2a8529d21?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "small unusual",
+      "category": "Bikini bottoms",
       "size": [
-        "6",
-        "12"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "chocolate poop with corn decoration maracuya flavor",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
+      "id": 5,
+      "price": 35.12,
+      "title": "Beach Classics Mini Bikini Bottoms",
+      "image": "https://images.unsplash.com/photo-1527008527515-d18557de1589?ixlib=rb-1.2.1&auto=format&fit=crop&w=628&q=80"
+    },
+    {
+      "category": "One piece",
+      "size": [
+        "XS",
+        "M",
+        "L"
+      ],
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 6,
-      "price": 30.56,
-      "title": "Poop",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/45315463_1955772914514599_1505239716302159872_o.jpg?_nc_cat=111&_nc_oc=AQmkxxJ7csRY-I6c3uIDJk5rXl-bdFwvdIa2iXOuP_DuJ_CkY4pl-LBSxqRK52Gewws&_nc_ht=scontent.fsyq2-1.fna&oh=af6ed349ad77715a31375db5c0bddb87&oe=5E41BA51"
+      "price": 95.00,
+      "title": "POP Surf One-Piece Swimsuit",
+      "image": "https://images.unsplash.com/photo-1520065949650-380765513210?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
     },
     {
-      "category": "small unusual",
+      "category": "Top",
       "size": [
-        "6",
-        "12"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "chocolate or buttercream toddlers with a fluid blackberry flavor",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
+      "id": 7,
+      "price":50.00,
+      "title": "Printed Beach Classics - Elongated Triangle Bikini Top for Women",
+      "image": "https://images.unsplash.com/photo-1521167318043-b2ce52398029?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=607&q=80"
+    },
+    {
+      "category": "Top",
+      "size": [
+        "XS",
+        "M",
+        "L"
+      ],
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 8,
-      "price": 25.65,
-      "title": "Penis",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t31.0-8/27907886_1612824038809490_8867615702694264911_o.jpg?_nc_cat=101&_nc_oc=AQmHMG9V1-WDuTHARHsE6-7CgDAccjAnuYZ4UlStWyLW7hSY9HgLx8L_ehRDP9BQ22o&_nc_ht=scontent.fsyq2-1.fna&oh=93d1baab9ff3bff6c3ead41f2a0fc981&oe=5E8A1956"
+      "price": 40.00,
+      "title": "Beach Classics T-Back Bikini Top",
+      "image": "https://images.unsplash.com/photo-1520993003313-85f6acd05a30?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "small unusual",
+      "category": "One piece",
       "size": [
-        "6",
-        "12"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "cranberry stuffed ginger ears",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 9,
-      "price":35.56,
-      "title": "Ears",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t31.0-8/23511304_1524053357686559_1243548346203081586_o.jpg?_nc_cat=106&_nc_oc=AQlx--x00nftgGNont8B_p1C05Zcyfy6N6vBqJCgvB3po8PVXtEm0U3lEQK-6ABLR3U&_nc_ht=scontent.fsyq2-1.fna&oh=a0398b2196293730f6d74010d39b197e&oe=5E4E530D"
+      "price": 90.00,
+      "title": "Sister One Piece High Leg Swimsuit",
+      "image": "https://images.unsplash.com/photo-1528479539300-7f03264ca215?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "small unusual",
+      "category": "Bikini bottoms",
       "size": [
-        "6",
-        "12"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "Banana paste fingers with an explosive mocha filling",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Support: Low support",
+        "Coverage: Regular coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 10,
-      "price": 32.55,
-      "title": "Fingers",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t31.0-8/21994301_1476911455734083_2906981759983595429_o.jpg?_nc_cat=110&_nc_oc=AQmS6PDvaKSmtgbwLo2cwhOYF9gnyaXwyAu4wD597VywU-UMbUVPTrxMoMwvcgzMuDY&_nc_ht=scontent.fsyq2-1.fna&oh=7cac61b2c3dc6ead2943fb540d4ae1bd&oe=5E4D707D"
+      "price": 50.00,
+      "title": "Sister High Waist Bikini Bottoms",
+      "image": "https://images.unsplash.com/photo-1502208476529-1391c9f68540?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
     },
     {
-      "category": "small unusual",
+      "category": "Top",
       "size": [
-        "6",
-        "12"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "small butter with almond cream filling",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Triangle shape",
+        "Coverage: Moderate coverage",
+        "Support: Low support",
+        "Padding: Removable padding",
+        "Straps: Fixed straps",
+        "Closure: Tie closure",
+        "Cup Size: Best suited to cup sizes A/B/C",
+        "Double spaghetti straps"
+      ],
       "id": 11,
-      "price": 24.65,
-      "title": "Presidents",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t31.0-8/24955791_1548062125285682_8187828035046934208_o.jpg?_nc_cat=108&_nc_oc=AQlD9aIjSrquCj91xoS-49SG4T3T3__-dU0KXNfDqhSmiVKv1jYezuF9rAY63AWNN1Y&_nc_ht=scontent.fsyq2-1.fna&oh=b269dcae08e2a2acaa6f42f3597e4f53&oe=5E424498"
+      "price": 45.00,
+      "title": "Local Mind Tiki Tri Bikini Top",
+      "image": "https://images.unsplash.com/photo-1495890238575-bc6ea0503834?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
     },
     {
-      "category": "Animals",
+      "category": "One piece",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "Tick sucks red velvet blood and strawberry filling",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Coverage: Regular coverage",
+        "Support: Low support",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C",
+        "Product appearance may differ slightly depending on print placement"
+      ],
       "id": 12,
-      "price": 300.99,
-      "title": "tick",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/10857777_719738451451391_5088826302604054610_n.jpg?_nc_cat=104&_nc_oc=AQkiz9m5gl3uNA62Fj80VWWJt04y2ZtyLCCH15XCDjjjzO721kh5z0nEoUVmCjLfDTg&_nc_ht=scontent.fsyq2-1.fna&oh=42eec5a503ef22fd143a0486a3ef2d22&oe=5E3E38FB"
+      "price": 90.00,
+      "title": "Riding Moon One-Piece Swimsuit",
+      "image": "https://images.unsplash.com/photo-1514525226243-6215eec8b885?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "Animals",
+      "category": "One piece",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "vanilla pig with a unique coconut and pineapple filling",
+      "description": "Sisters One Piece High Leg Swimsuit for Women These influential collaborators are as unlikely as they are inseparable, making for a muse-worthy pairing. Saturated with style this sensational one-piece swimsuit blends vintage caramel and copper hues, delicate stripes and jacquard textures in this high leg, deep V-neck swim silhouette. Sister A ROXY collaboration with Kelia Moniz & Hailey Bieber: Rich in tension and saturated with",
       "id": 13,
-      "price": 200.89,
-      "title": "Pig",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/10509661_697834726975097_458053365582883963_n.jpg?_nc_cat=100&_nc_oc=AQkujo_lYI0BfaPT6lvBAenr-YYyi17LpxbxSfG3SqEPnkHcFPutuGeE-c7pUzOUbpo&_nc_ht=scontent.fsyq2-1.fna&oh=5a9795f1c966133f6be436e5dde4fb5d&oe=5E423759"
+      "price": 50.00,
+      "title": "Sister One Piece High Leg Swimsuit",
+      "image": "https://images.unsplash.com/photo-1525943837837-af668e09139d?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "Animals",
+      "category": "Top",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "bloody dog with semi-hard caramel topping and orange and rum filling",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Coverage: Regular coverage",
+        "Support: Low support",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C",
+        "Product appearance may differ slightly depending on print placement"
+      ],
       "id": 14,
-      "price": 250.56,
-      "title": "bloody dog",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t31.0-8/14543846_1102529453172287_1901453954237908579_o.jpg?_nc_cat=107&_nc_oc=AQkHGRCT3w-ekqzdz-ya31Qq9uXjzxB_4kM_U-UK635DkRehUMVcpjK_SQxhe1BckbQ&_nc_ht=scontent.fsyq2-1.fna&oh=5573ea3136ae73869ac1bdcbd7dd7b3b&oe=5E4AC5DB"
+      "price": 30.93,
+      "title": "Tidal Times Tiki Tri Bikini Top",
+      "image": "https://images.unsplash.com/photo-1525672716948-1f0bb9c49883?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "Animals",
+      "category": "Top",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "shark kills everything with cream cheese filling and peaches in syrup",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Triangle shape",
+        "Coverage: Medium support",
+        "Support: Low support",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C",
+        "T-back design"
+      ],
       "id": 15,
-      "price": 350.56,
-      "title": "assassin shark",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/30531415_1675321522559741_2276176836876566528_n.jpg?_nc_cat=103&_nc_oc=AQkn0SLb-LlrGq6BQBaK448_HOW7wj5GSbJmrjkqfjqLA2Bjna3xqFzrpextD8qTLjw&_nc_ht=scontent.fsyq2-1.fna&oh=b9cabdeb91271a34c3759e21dd1a5030&oe=5E430A3E"
+      "price": 40.96,
+      "title": "Beach Classics T-Back Bikini Top",
+      "image": "https://images.unsplash.com/photo-1546839655-2b7c2c66e05f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "Animals",
+      "category": "One piece",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "Coconut sponge cake joker camel with caramelized apple filling and rum eyes",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Fashion one-piece shape",
+        "Coverage: Regular coverage",
+        "Support: Low support",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Fixed closure",
+        "Cup Size: Best suited to cup sizes A/B/C",
+        "Shiny fabric"
+      ],
       "id": 16,
-      "price": 205.96,
-      "title": "joker camel",
-      "image": "https://instagram.fsyq2-1.fna.fbcdn.net/vp/538606e235f049e3d2eb662850af00a3/5E8D0D9C/t51.2885-15/sh0.08/e35/s640x640/13584096_1562291834066162_888657613_n.jpg?_nc_ht=instagram.fsyq2-1.fna.fbcdn.net&_nc_cat=102%20640w,https://instagram.fsyq2-1.fna.fbcdn.net/vp/15fa684935b0942e467123ea313ddfe2/5E513C7D/t51.2885-15/sh0.08/e35/s750x750/13584096_1562291834066162_888657613_n.jpg?_nc_ht=instagram.fsyq2-1.fna.fbcdn.net&_nc_cat=102%20750w,https://instagram.fsyq2-1.fna.fbcdn.net/vp/2604b3666867b206cced23e84a8b77be/5E53A450/t51.2885-15/e35/13584096_1562291834066162_888657613_n.jpg?_nc_ht=instagram.fsyq2-1.fna.fbcdn.net&_nc_cat=102%201080w"
+      "price": 45.99,
+      "title": "Riding Moon One-Piece Swimsuit",
+      "image": "https://images.unsplash.com/photo-1529171109936-dd3412229df6?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "body parts",
+      "category": "Bikini bottoms",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "Lemon teeth with explosive stuffed with cream cheese and condensed milk",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Coverage: Full coverage",
+        "Closure: Fixed closure",
+        "Rise: Low rise waist"
+      ],
       "id": 17,
-      "price": 200.96,
-      "title": "dirty teeth",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/29497833_1653515698073657_3306725265702387712_o.jpg?_nc_cat=104&_nc_oc=AQmZ-TgF6podZPLnV2I6CqlMVyzEAQeQmRunUumiQDF6pXNNQrUo-HuGBkqEn_8Dpfg&_nc_ht=scontent.fsyq2-1.fna&oh=4fb81de5fabb353dfd129bbee0ec4b94&oe=5E40894A"
+      "price": 45.43,
+      "title": "Local Mind Full Bikini Bottoms",
+      "image": "https://images.unsplash.com/photo-1544963151-fb47c1a06478?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
-      "category": "body parts",
+      "category": "Top",
       "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
+        "XS",
+        "M",
+        "L"
       ],
-      "description": "delicious yogurt brain filled with blueberries, strawberries and honey",
+      "description":[ 
+        "Fabric: Soft, resistant stretch fabric",
+        "Shape: Triangle shape",
+        "Support: Medium support",
+        "Coverage: Moderate coverage",
+        "Padding: Removable padding",
+        "Straps: Adjustable ring & slider straps",
+        "Closure: Lace-up closure",
+        "Cup Size: Best suited to cup sizes A/B/C"
+      ],
       "id": 18,
-      "price": 218.56,
-      "title": "mutant brain",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t1.0-9/35971868_1762396837185542_7450843199913852928_o.jpg?_nc_cat=107&_nc_oc=AQlC10BlEXUzAlGvXPOimLdHBTlKBSZhstGAXyi5pox4hpBVNJd-a1UYuJS61YWvwWs&_nc_ht=scontent.fsyq2-1.fna&oh=6a3fc2c4da0795cf0dac31ee0080b509&oe=5E57A031"
-    },
-    {
-      "category": "others",
-      "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
-      ],
-      "description": "hive of vanilla bees and stuffed with lemon, honey and hints of cinnamon",
-      "id": 19,
-      "price": 305.43,
-      "title": "Bee hive",
-      "image": "https://scontent.fsyq2-1.fna.fbcdn.net/v/t31.0-8/12493859_918208081604426_1500988253721157406_o.jpg?_nc_cat=110&_nc_oc=AQkWobwcCa3EB43n0zperLmLgcJ00yipiDrCwomkE1pjKpVBMbmMmeiAR2eIM5ZlT4I&_nc_ht=scontent.fsyq2-1.fna&oh=f7293540b967bb6ec3fd2ce5ee2082ed&oe=5E4D1D0A"
-    },
-    {
-      "category": "body parts",
-      "size": [
-        "Grande",
-        "Mediano",
-        "Pequeño"
-      ],
-      "description": "head with carrot cake and delicious cherry filling in apple syrup",
-      "id": 20,
-      "price": 265.41,
-      "title": "blood head",
-      "image": "https://instagram.fsyq2-1.fna.fbcdn.net/vp/da45d4128417f5cfe68d6abf5f73a6fb/5E51FB50/t51.2885-15/sh0.08/e35/s640x640/12930815_859418257519722_1047173358_n.jpg?_nc_ht=instagram.fsyq2-1.fna.fbcdn.net&_nc_cat=106%20640w,https://instagram.fsyq2-1.fna.fbcdn.net/vp/7aafe067836f3521cd0136fac9288e4d/5E87CFB1/t51.2885-15/sh0.08/e35/s750x750/12930815_859418257519722_1047173358_n.jpg?_nc_ht=instagram.fsyq2-1.fna.fbcdn.net&_nc_cat=106%20750w,https://instagram.fsyq2-1.fna.fbcdn.net/vp/1f5c39e2c9b28312a432bd86b91aeed3/5E508A9C/t51.2885-15/e35/12930815_859418257519722_1047173358_n.jpg?_nc_ht=instagram.fsyq2-1.fna.fbcdn.net&_nc_cat=106%201080w"
+      "price": 65.41,
+      "title": "Beach Classics Athletic Tri Bikini Top",
+      "image": "https://images.unsplash.com/photo-1544963823-6267c70c3e11?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     }
   ]
 }

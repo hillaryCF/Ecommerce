@@ -5,8 +5,18 @@
   flex-wrap: wrap;
   justify-content: center;
   margin: 22px;
+  background: white;
 }
 
 .cake__img {
-  width: 100%
+  width: 80%
+}
+
+
+
+.cake__modal {
+  border: 0;
+  background: transparent;
+  margin: 0;
+  padding: 0;
 }
