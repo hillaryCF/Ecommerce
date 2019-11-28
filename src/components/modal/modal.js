@@ -1,5 +1,4 @@
 import React from 'react'
-import ButtonBuy from '../buttonBuy/buttonBuy'
 import './modal.scss'
 
 const Modal = ({ modalClose, show,title, urlImage,description,price}) => {
@@ -8,11 +7,12 @@ const Modal = ({ modalClose, show,title, urlImage,description,price}) => {
     <React.Fragment>
     <div className={modalChange}>
       <button onClick={modalClose} className="modal__btn"></button>
-      <h2 className="modal__inf">{title}</h2>
+      <h2 className="modal__title">{title}</h2>
       <img src={urlImage} alt="" className="modal__img"/>
-      <p className="modal__inf">{description}</p>
-      <p className="modal__inf">{price}</p>
-      <ButtonBuy/>
+      <ul className="modal__list" >
+        {description}
+      </ul>
+      <p className="modal__price">{price}</p>
     </div>
     </React.Fragment>
   );

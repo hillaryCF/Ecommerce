@@ -11,7 +11,7 @@ export default ({number}) => {
         <li><NavLink to="/checkout">checkout</NavLink></li>
       </ul>
       <NavLink to="/checkout" className="nav__bag"><img src="../img/shopping-bag.svg" alt="" /></NavLink>
-      {/* <p className="checkout__num">{number}</p> */}
+      <span className="checkout__num">{number}</span>
     </div>
   );
 }

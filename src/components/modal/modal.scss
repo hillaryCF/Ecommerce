@@ -1,11 +1,12 @@
 .modal {
+  background: white;
+  height: 100%;
+  left: 0;
+  opacity: 1;
+  overflow: scroll;
   position: fixed;
   top: 0;
-  left: 0;
   width:100%;
-  height: 100%;
-  background: white;
-  opacity: 1;
 }
 
 .display-block {
@@ -28,11 +29,26 @@
   width: 28px;
 }
 
-.modal__inf {
+.modal__title {
   margin: 15px;
+  text-align: left;
+  font-size: 21px;
+  padding-top: 52px;
+}
+
+.modal__list {
+  margin: 15px;
+  text-align: left;
+  font-size: 21px;
 }
 
 .modal__img {
-  width: 57%;
+  width: 100%;
 
+}
+
+.modal__price {
+  margin: 15px;
+  text-align: left;
+  font-size: 30px;
 }

@@ -6,17 +6,35 @@
   justify-content: center;
   margin: 22px;
   background: white;
+  // width: 30%
 }
 
 .cake__img {
-  width: 80%
+  width: 80%;
 }
-
-
 
 .cake__modal {
   border: 0;
   background: transparent;
   margin: 0;
   padding: 0;
+}
+
+.cake__title {
+  font-size: 27px;
+  word-break: break-word;
+  width: 86%;
+  text-align: left;
+}
+
+.cake__button--buy {
+  background: #333333;
+  border: 0;
+  font-size: 15px;
+  font-weight: bold;
+  height: 40px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  width: 80%;
+  color: white;
 }

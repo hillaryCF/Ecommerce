@@ -4,7 +4,8 @@ import InfoCake from '../components/info-cake/infoCake'
 import SortPrice from '../components/sortPrice/sortPrice'
 import ButtonSort from '../components/buttonSort/buttonSort'
 import Modal from '../components/modal/modal'
-
+import Header from '../section/header/header'
+import InfoCheckout from '../components/info-checkout/infoCheckout'
 import './services.scss'
 
 class Service extends Component {
@@ -16,7 +17,10 @@ class Service extends Component {
 			state: false,
 			inputValue: "",
 			data:[],
+			checkoutArray:[],
+			contador: 0
 		}	
+		this.BuyButton = this.BuyButton.bind(this)
 	}
 
 	openAndCloseCategory = () => {
@@ -43,10 +47,21 @@ class Service extends Component {
 		this.setState({api})
 	}
 
+	BuyButton = (e) => {
+    this.setState({contador: this.state.contador + 1})
+		const {api,checkoutArray} = this.state;
+		const newArrayCheck = api[e.target.id]
+		checkoutArray.push(newArrayCheck)
+		// localStorage
+		localStorage.setItem('data', JSON.stringify(checkoutArray))
+		const localList = localStorage.getItem('data');
+		console.log(localList)
+	}
+
   showModal = (e) => {
 		this.setState({ show: true });
 		const {api} = this.state;
-		const dataApi = api[e.target.id]
+		const dataApi = api[e.target.id] 
 		this.setState({data : dataApi})
 	};
 
@@ -55,28 +70,29 @@ class Service extends Component {
 	};
 	
 
+
 	render() {
-		const { Loaded, api,data} = this.state;
+		const { Loaded, api,data,checkoutArray} = this.state;
+		
 		if (!Loaded) {
 			return <div>Loading...</div>;
 		} else {
 			return (
 				<React.Fragment>
+					<Header number={this.state.contador}/>
 					<h2>swimsuits</h2>
-					
 					<div className="sortButtons">
 						<h3 className="title">sort by</h3>
 						<ButtonSort actionSort={this.openAndCloseCategory} name="price"/>
 						<ButtonSort actionSort={this.sortcategory} name="category"/>
 					</div>
-				
 					<SortPrice show={this.state.state} upward={this.sortAscendingPrice} falling={this.sortDescendingPrice}/><SortPrice/>
 					<div className="infoSwimsuits">
 						{api.map(e => (
-							<InfoCake id={e.id} imageUrl={e.image} name={e.title} price={`$ ${e.price}`} modalInfo={this.showModal} idImage={e.id}/>
+							<InfoCake id={e.id} imageUrl={e.image} name={e.title} price={`$ ${e.price}`} modalInfo={this.showModal} BuyButton={this.BuyButton} idImage={e.id}  />
 						))}
+						<InfoCheckout  imageUrl={checkoutArray.image} name={checkoutArray.title} price={`$ ${checkoutArray.price}`}  BuyButton={this.BuyButton} idImage={checkoutArray.id}  /> */}
 					</div>
-					
 					<Modal show={this.state.show} modalClose={this.hideModal} title={data.title} description={data.description} price={`$ ${data.price}`} urlImage={data.image}/>
 				</React.Fragment>
 			)
@@ -86,3 +102,7 @@ class Service extends Component {
 
 
 export default Service;
+
+
+
+

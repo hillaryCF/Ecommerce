@@ -9,7 +9,12 @@ h3 {
 
 .infoSwimsuits {
   background: url('../static/background.png');
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
+
 
 .sortButtons {
   padding: 13px 0px;

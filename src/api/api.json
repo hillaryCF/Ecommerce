@@ -53,7 +53,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Support: Low support",
         "Coverage: Regular coverage",
         "Padding: Removable padding",
@@ -63,7 +63,7 @@
       ],
       "id": 2,
       "price": 80.00,
-      "title": "Beach Classics One-Piece Swimsuit",
+      "title": "Beach Classics One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1533624800173-4b9d2f20b966?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -75,7 +75,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Support: Low support",
         "Coverage: Regular coverage",
         "Padding: Removable padding",
@@ -85,7 +85,7 @@
       ],
       "id": 3,
       "price": 90.00,
-      "title": "Seas The Day One-Piece Swimsuit",
+      "title": "Seas The Day One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1467632499275-7a693a761056?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -97,7 +97,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Support: Low support",
         "Coverage: Regular coverage",
         "Padding: Removable padding",
@@ -118,14 +118,14 @@
         "L"
       ],
       "description":[ 
-        "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
-        "Support: Low support",
-        "Coverage: Regular coverage",
-        "Padding: Removable padding",
-        "Straps: Adjustable ring & slider straps",
-        "Closure: Fixed closure",
-        "Cup Size: Best suited to cup sizes A/B/C"
+        "abric: Soft, resistant stretch fabric",
+        "hape: Fashion one piece shape",
+        "upport: Low support",
+        "overage: Regular coverage",
+        "adding: Removable padding",
+        "traps: Adjustable ring & slider straps",
+        "losure: Fixed closure",
+        "up Size: Best suited to cup sizes A/B/C"
       ],
       "id": 5,
       "price": 35.12,
@@ -141,7 +141,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Support: Low support",
         "Coverage: Regular coverage",
         "Padding: Removable padding",
@@ -151,7 +151,7 @@
       ],
       "id": 6,
       "price": 95.00,
-      "title": "POP Surf One-Piece Swimsuit",
+      "title": "POP Surf One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1520065949650-380765513210?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
     },
     {
@@ -163,7 +163,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Support: Low support",
         "Coverage: Regular coverage",
         "Padding: Removable padding",
@@ -185,7 +185,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Support: Low support",
         "Coverage: Regular coverage",
         "Padding: Removable padding",
@@ -207,7 +207,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Support: Low support",
         "Coverage: Regular coverage",
         "Padding: Removable padding",
@@ -229,7 +229,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Support: Low support",
         "Coverage: Regular coverage",
         "Padding: Removable padding",
@@ -274,7 +274,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Coverage: Regular coverage",
         "Support: Low support",
         "Padding: Removable padding",
@@ -285,7 +285,7 @@
       ],
       "id": 12,
       "price": 90.00,
-      "title": "Riding Moon One-Piece Swimsuit",
+      "title": "Riding Moon One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1514525226243-6215eec8b885?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -295,7 +295,7 @@
         "M",
         "L"
       ],
-      "description": "Sisters One Piece High Leg Swimsuit for Women These influential collaborators are as unlikely as they are inseparable, making for a muse-worthy pairing. Saturated with style this sensational one-piece swimsuit blends vintage caramel and copper hues, delicate stripes and jacquard textures in this high leg, deep V-neck swim silhouette. Sister A ROXY collaboration with Kelia Moniz & Hailey Bieber: Rich in tension and saturated with",
+      "description": "Sisters One Piece High Leg Swimsuit for Women These influential collaborators are as unlikely as they are inseparable, making for a muse-worthy pairing. Saturated with style this sensational one piece swimsuit blends vintage caramel and copper hues, delicate stripes and jacquard textures in this high leg, deep V-neck swim silhouette. Sister A ROXY collaboration with Kelia Moniz & Hailey Bieber: Rich in tension and saturated with",
       "id": 13,
       "price": 50.00,
       "title": "Sister One Piece High Leg Swimsuit",
@@ -310,7 +310,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Coverage: Regular coverage",
         "Support: Low support",
         "Padding: Removable padding",
@@ -356,7 +356,7 @@
       ],
       "description":[ 
         "Fabric: Soft, resistant stretch fabric",
-        "Shape: Fashion one-piece shape",
+        "Shape: Fashion one piece shape",
         "Coverage: Regular coverage",
         "Support: Low support",
         "Padding: Removable padding",
@@ -367,7 +367,7 @@
       ],
       "id": 16,
       "price": 45.99,
-      "title": "Riding Moon One-Piece Swimsuit",
+      "title": "Riding Moon One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1529171109936-dd3412229df6?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
