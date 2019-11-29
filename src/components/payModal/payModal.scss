@@ -1,0 +1,54 @@
+.modal {
+  background: white;
+  height: 100%;
+  left: 0;
+  opacity: 1;
+  overflow: scroll;
+  position: fixed;
+  top: 0;
+  width:100%;
+}
+
+.display-block {
+  display: block;
+  text-align: center;
+}
+
+.display-none {
+  display: none;
+}
+
+.modal__btn {
+  background: url('../../static/x.svg');
+  background-repeat: no-repeat;
+  border: 0;
+  height: 28px;
+  position: absolute;
+  right: 12px;
+  top: 17px;
+  width: 28px;
+}
+
+.modal__title {
+  margin: 15px;
+  text-align: left;
+  font-size: 21px;
+  padding-top: 52px;
+}
+
+.modal__list {
+  margin: 15px;
+  text-align: left;
+  font-size: 21px;
+}
+
+.modal__img {
+  width: 100%;
+
+}
+
+.modal__price {
+  margin: 15px;
+  text-align: left;
+  font-size: 30px;
+}
