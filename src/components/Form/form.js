@@ -1,8 +1,8 @@
 import React from 'react'
 import { CardElement, injectStripe } from 'react-stripe-elements'
 
-class Form extends React.Component<IFormProps, IFormState> {
-  constructor(props: IFormProps) {
+class Form extends React.Component {
+  constructor(props) {
     super(props);
     this.state = {
       email: "",
@@ -10,10 +10,13 @@ class Form extends React.Component<IFormProps, IFormState> {
     }
   }
 
-  handleSubmit= async (e: React.ChangeEvent<HTMLFontElement>) =>{
+  handleSubmit= async (e) =>{
     e.preventDefault();
-    alert('pago exitoso')
-
+    if ( e!== null) {
+      alert('pago exitoso')
+    }else {
+      alert('error')
+    }
   }
 
   render() {
@@ -22,20 +25,19 @@ class Form extends React.Component<IFormProps, IFormState> {
         <form onSubmit={this.handleSubmit}>
           <label>email</label>
           <input
-            type="text"
+            type="email"
             className="input-group"
             value={this.state.email}
-            onChange={(e: React.ChangeEvent<HTMLInputElement>) => this.setState({ email: e.target.value })}
+            onChange={(e) => this.setState({ email: e.target.value })}
           />
 
           <label>amount</label>
           <input
-            type="text"
+            type="number"
             className="input-group"
             value={this.state.amount}
-            onChange={(e: React.ChangeEvent<HTMLInputElement>) => this.setState({ amount: e.target.value })}
+            onChange={(e) => this.setState({ amount: e.target.value })}
           />
-          <label>cc number -- exp. date -- cvc</label>
           <CardElement className=""/>
           <button>pay with car</button>
         </form>
