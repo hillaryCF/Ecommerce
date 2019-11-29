@@ -54,8 +54,6 @@ class Service extends Component {
 		checkoutArray.push(newArrayCheck)
 		// localStorage
 		localStorage.setItem('data', JSON.stringify(checkoutArray))
-		const localList = localStorage.getItem('data');
-		console.log(localList)
 	}
 
   showModal = (e) => {

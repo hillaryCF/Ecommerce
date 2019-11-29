@@ -5,6 +5,14 @@
   background-position: center;
   height: 60vh;
   width: 100%;
+
+  @media screen and (min-width: 768px) {
+    background-position: 0%;
+  }
+
+  @media screen and (min-width: 1440px) {
+    height: 100vh;
+  }
 }
 
 .header__title {
@@ -15,6 +23,11 @@
   font-weight: normal;
 
   @media screen and (min-width: 768px) {
+    font-size: 80px
+  }
+
+  @media screen and (min-width: 1440px) {
+    font-size: 122px
   }
 }
 
@@ -22,14 +35,53 @@
   width: 64%;
   position: absolute;
   right: 19px;
+  @media screen and (min-width: 768px) {
+    width: 38%;
+  }
+
+  @media screen and (min-width: 1440px) {
+    width: 27%;
+    margin: 52px;
+  }
 }
 
 .header__title-size {
   font-size: 70px;
+
+  @media screen and (min-width: 768px) {
+    font-size: 90px
+  }
+
+  @media screen and (min-width: 1440px) {
+    font-size: 140px
+  }
 }
 
 .header__arrow {
   margin-top: 89px;
   margin-left: 20px;
   width: 22%;
+
+  @media screen and (min-width: 768px) {
+    width: 15%;
+  }
+
+  @media screen and (min-width: 1440px) {
+    margin-top: 15%;
+    margin-left: 60px;
+  }
+}
+
+.header__subtitle {
+  display: none;
+  
+  @media screen and (min-width: 1440px) {
+    display: block;
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    left: 50%;
+    margin-left: -314px;
+    bottom: 0;
+  }
 }

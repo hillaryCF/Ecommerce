@@ -1,0 +1,48 @@
+.check {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+
+.check__img {
+  width: 44%;
+  height: 27vh;
+}
+
+.check__info--title {
+  margin: 0 10px;
+  font-size: 17px;
+  font-weight: normal;
+}
+
+.check__info--category {
+  margin: 6px 10px;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.check__info--price {
+  margin: 6px 10px;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.check__info--button {
+  background: #333333;
+  border: 0;
+  font-size: 15px;
+  font-weight: bold;
+  height: 40px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  width: 80%;
+  color: white;
+}
+
+.check__close {
+  background: url(/static/media/x.71b8881f.svg);
+  background-repeat: no-repeat;
+  border: 0;
+  width: 13px;
+  height: 15px;
+}

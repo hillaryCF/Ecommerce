@@ -19,7 +19,7 @@
       ],
       "id": 0,
       "price": 55.36,
-      "title": "Tropical Day Fixed Triangle Bikini Top",
+      "title": "Triangle Bikini Top",
       "image": "https://images.unsplash.com/photo-1531012674264-eeda268ca053?ixlib=rb-1.2.1&auto=format&fit=crop&w=630&q=80"
     },
     {
@@ -41,8 +41,8 @@
       ],
       "id": 1,
       "price": 55.00,
-      "title": "Printed Beach Classics Tank Bralette Bikini Top",
-      "image": "https://images.unsplash.com/photo-1555992938-ae7aa7e36d07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80"
+      "title": "Bralette Bikini Top",
+      "image": "https://images.unsplash.com/photo-1485586752437-03021cfb7ea4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
     },
     {
       "category": "One piece",
@@ -63,7 +63,7 @@
       ],
       "id": 2,
       "price": 80.00,
-      "title": "Beach Classics One Piece Swimsuit",
+      "title": "One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1533624800173-4b9d2f20b966?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "id": 3,
       "price": 90.00,
-      "title": "Seas The Day One Piece Swimsuit",
+      "title": "Seas One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1467632499275-7a693a761056?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -107,7 +107,7 @@
       ],
       "id": 4,
       "price": 50.30,
-      "title": "Beach Classics Moderate Bikini Bottoms for Women",
+      "title": "Bikini Bottoms for Women",
       "image": "https://images.unsplash.com/photo-1522322904670-5cf2a8529d21?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -129,7 +129,7 @@
       ],
       "id": 5,
       "price": 35.12,
-      "title": "Beach Classics Mini Bikini Bottoms",
+      "title": "Mini Bikini Bottoms",
       "image": "https://images.unsplash.com/photo-1527008527515-d18557de1589?ixlib=rb-1.2.1&auto=format&fit=crop&w=628&q=80"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "id": 6,
       "price": 95.00,
-      "title": "POP Surf One Piece Swimsuit",
+      "title": "Surf One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1520065949650-380765513210?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "id": 7,
       "price":50.00,
-      "title": "Printed Beach Classics - Elongated Triangle Bikini Top for Women",
+      "title": "Printed Triangle Bikini Top for Women",
       "image": "https://images.unsplash.com/photo-1521167318043-b2ce52398029?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=607&q=80"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "id": 8,
       "price": 40.00,
-      "title": "Beach Classics T-Back Bikini Top",
+      "title": "T-Back Bikini Top",
       "image": "https://images.unsplash.com/photo-1520993003313-85f6acd05a30?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -217,7 +217,7 @@
       ],
       "id": 9,
       "price": 90.00,
-      "title": "Sister One Piece High Leg Swimsuit",
+      "title": "One Piece High Swimsuit",
       "image": "https://images.unsplash.com/photo-1528479539300-7f03264ca215?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -239,7 +239,7 @@
       ],
       "id": 10,
       "price": 50.00,
-      "title": "Sister High Waist Bikini Bottoms",
+      "title": "Waist Bikini Bottoms",
       "image": "https://images.unsplash.com/photo-1502208476529-1391c9f68540?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
     },
     {
@@ -262,7 +262,7 @@
       ],
       "id": 11,
       "price": 45.00,
-      "title": "Local Mind Tiki Tri Bikini Top",
+      "title": "Tiki Tri Bikini Top",
       "image": "https://images.unsplash.com/photo-1495890238575-bc6ea0503834?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
     },
     {
@@ -285,7 +285,7 @@
       ],
       "id": 12,
       "price": 90.00,
-      "title": "Riding Moon One Piece Swimsuit",
+      "title": "Riding One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1514525226243-6215eec8b885?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -321,7 +321,7 @@
       ],
       "id": 14,
       "price": 30.93,
-      "title": "Tidal Times Tiki Tri Bikini Top",
+      "title": "Tidal Times Bikini Top",
       "image": "https://images.unsplash.com/photo-1525672716948-1f0bb9c49883?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -344,7 +344,7 @@
       ],
       "id": 15,
       "price": 40.96,
-      "title": "Beach Classics T-Back Bikini Top",
+      "title": "Beach T-Back Bikini Top",
       "image": "https://images.unsplash.com/photo-1546839655-2b7c2c66e05f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -367,7 +367,7 @@
       ],
       "id": 16,
       "price": 45.99,
-      "title": "Riding Moon One Piece Swimsuit",
+      "title": "Moon One Piece Swimsuit",
       "image": "https://images.unsplash.com/photo-1529171109936-dd3412229df6?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -385,7 +385,7 @@
       ],
       "id": 17,
       "price": 45.43,
-      "title": "Local Mind Full Bikini Bottoms",
+      "title": "Full Bikini Bottoms",
       "image": "https://images.unsplash.com/photo-1544963151-fb47c1a06478?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
@@ -407,7 +407,7 @@
       ],
       "id": 18,
       "price": 65.41,
-      "title": "Beach Classics Athletic Tri Bikini Top",
+      "title": "Athletic Tri Bikini Top",
       "image": "https://images.unsplash.com/photo-1544963823-6267c70c3e11?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     }
   ]

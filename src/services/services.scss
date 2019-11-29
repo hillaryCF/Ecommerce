@@ -3,8 +3,12 @@ h2 {
   margin-left: 27px;
 }
 
-h3 {
+.title {
   font-size: 20px;
+
+  @media screen and (min-width: 768px) {
+    font-size: 40px;
+  }
 }
 
 .infoSwimsuits {
@@ -23,4 +27,8 @@ h3 {
   display: flex;
   justify-content: space-between;
   padding: 0 26px;
+
+  @media screen and (min-width: 768px) {
+    justify-content: left;
+  }
 }
