@@ -1,1 +1,1 @@
-# [Ecommerce](https://hillarycf.github.io/public)
+# [Ecommerce](https://hillarycf.github.io/Ecommerce/public)
